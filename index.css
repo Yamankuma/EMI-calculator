@@ -1,0 +1,68 @@
+body{
+    background-color: aqua;
+}
+.container{
+text-align: center;
+position: relative;
+top: 150px;
+border: solid black;
+padding: 100px 300px;
+width: 300px;
+position: relative;
+left: 600px;
+background-color: rgba(255, 240, 240, 0.932);
+text-align: justify;
+text-decoration: solid;
+
+}
+.loanAmount{
+    padding: 20px;
+    font-size: larger;
+    
+}
+.tenure{
+    padding: 20px;
+     font-size: larger;
+}
+
+.containe2{
+    position: relative;
+    top: 30px;
+    right: 68%;
+    display: flex;
+    width: 20px;
+    font-size: larger;
+    
+}
+.container3{
+    position: relative;
+    top: 30px;
+    right: 40px;
+    font-size: larger;
+}
+.btn{
+   padding: 20px 100px;
+   font-size: large;
+    position: relative;
+    left: 50px;
+    
+    background-color: blue;
+
+}
+.container1{
+    display: flex;
+    font-size: large;
+    position: relative;
+    right: 45%;
+}
+h1{
+    position: relative;
+    bottom: 20px;
+}
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.interset{
+  padding: 20px 50px;
+  font-size: larger;
+}
