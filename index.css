@@ -7,7 +7,7 @@ position: relative;
 top: 150px;
 border: solid black;
 padding: 100px 300px;
-width: 200px;
+width: 300px;
 position: relative;
 left: 200px;
 background-color: rgba(255, 240, 240, 0.932);
@@ -53,7 +53,7 @@ text-decoration: solid;
     display: flex;
     font-size: large;
     position: relative;
-    right: 45%;
+    right: 60%;
 }
 h1{
     position: relative;
